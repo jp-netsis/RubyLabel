@@ -2,7 +2,7 @@ using System;
 using jp.netsis.RubyText;
 using UnityEngine.UIElements;
 
-namespace jp.netsis.RubyTextCallback
+namespace jp.netsis.RubyText.UIElements
 {
     /// <summary>
     /// 
@@ -18,7 +18,7 @@ namespace jp.netsis.RubyTextCallback
 
         public T textElement { get; private set; }
 
-        public RubyTextElementCallback(T rubyTextElement,long intervalMs = 5)
+        public RubyTextElementCallback(T rubyTextElement, long intervalMs = 5)
         {
             if (rubyTextElement == null)
             {

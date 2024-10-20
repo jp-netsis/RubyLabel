@@ -1,5 +1,4 @@
 using System;
-using jp.netsis.RubyTextCallback;
 using UnityEngine;
 using UnityEngine.UIElements;
 
