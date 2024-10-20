@@ -1,0 +1,30 @@
+{
+  "name": "jp.netsis.rubylabel",
+  "version": "0.2.0",
+  "displayName": "Ruby Label",
+  "description": "Unity UIElement Ruby Label.",
+  "unity": "6000.0",
+  "documentationUrl": "https://github.com/jp-netsis/RubyLabel",
+  "changelogUrl": "https://github.com/jp-netsis/RubyLabel/release",
+  "licensesUrl": "https://github.com/jp-netsis/RubyLabel/blob/main/LICENSE",
+  "dependencies": {
+    "jp.netsis.rubytext.abstractions": "0.2.0"
+  },
+  "samples": [
+   {
+     "displayName": "Demo",
+     "description": "Demo",
+     "path": "Samples~/Demo"
+   }
+  ],
+  "keywords": [
+    "Ruby",
+    "Furigana",
+    "Text"
+  ],
+  "author": {
+    "name": "netsis.jp",
+    "email": "netsis.jenomoto@gmail.com",
+    "url": "https://github.com/jp-netsis"
+  }
+}
