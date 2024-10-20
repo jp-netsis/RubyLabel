@@ -2,6 +2,8 @@
 
 [![English is here](https://img.shields.io/badge/lang-english-blue.svg)](README.md)
 
+依存 : https://github.com/jp-netsis/RubyTextAbstractions
+
 UnityのUIElementのLabelに振り仮名(ふりがな、フリガナ、ルビ)タグを追加します。
 
 チェックしたUnityバージョンは以下の通りです。

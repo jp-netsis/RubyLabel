@@ -2,6 +2,8 @@
 
 [![日本語はこちら](https://img.shields.io/badge/lang-日本語-red.svg)](README.ja.md)
 
+Depends : https://github.com/jp-netsis/RubyTextAbstractions
+
 Add furigana (ruby) tags to the TextElement inherited object in Unity's UIElement.
 
 The Unity version checked is as follows
