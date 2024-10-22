@@ -1,4 +1,4 @@
-# Ruby(Furigana) Text Callback
+# Ruby(Furigana) Label
 
 [![日本語はこちら](https://img.shields.io/badge/lang-日本語-red.svg)](README.ja.md)
 
